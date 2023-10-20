@@ -1,3 +1,5 @@
+![Wallpaper](https://raw.githubusercontent.com/Renyu106/Renyu106/main/wallpaper_night.png)
+
 ## 👋 Hi
 I love turning my imaginations into reality by creating and operationalizing them, rather than just leaving them as mere thoughts.
 
@@ -30,8 +32,16 @@ I love turning my imaginations into reality by creating and operationalizing the
 ## 📫 How to reach me
 - Email: renyu@winsub.kr
 
+## 💻 IDE
+![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Phpstorm](https://img.shields.io/badge/-PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
+![DataGrip](https://img.shields.io/badge/-DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
+![DataGrip](https://img.shields.io/badge/-DataGrip-000000?style=for-the-badge&logo=clion&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+
 ## 🎯 Stack
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<!--![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -40,15 +50,7 @@ I love turning my imaginations into reality by creating and operationalizing the
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) -->
 
-## 💻 IDE
-![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Phpstorm](https://img.shields.io/badge/-PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
-![DataGrip](https://img.shields.io/badge/-DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
-<hr>
-
-[![wakatime](https://wakatime.com/badge/user/4db7800c-8d66-49b7-b58c-d3ad5a5211cf.svg)](https://wakatime.com/@4db7800c-8d66-49b7-b58c-d3ad5a5211cf)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Renyu&layout=compact)](https://wakatime.com/@Renyu)
