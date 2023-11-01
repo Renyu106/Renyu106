@@ -24,9 +24,9 @@ I love turning my imaginations into reality by creating and operationalizing the
 - **[C01 Free Domain](https://c01.kr)**
   - Description: A service offering free domains to users by integrating with the DNS Zone provided by Cloudflare through its API.
   - Tech Stack: PHP 7, MySQL
-- **Link Shortener**
-    - Description: A link shortening service developed through a proprietary PHP framework.
-    - Tech Stack: PHP 8.3, NGINX, IIS, MySQL
+- **[VKI Link Shortener](https://vki.kr) / [RENY.US Link Shortener](https://reny.us)**
+    - **Description**: A link shortening service developed using a proprietary PHP router framework. Users can manage the links they create without logging in and can also view the number of times a link has been used.
+    - **Tech Stack**: PHP 8.3, NGINX, IIS, MySQL
 
 
 ## 📫 How to reach me
