@@ -13,17 +13,17 @@ I love turning my imaginations into reality by creating and operationalizing the
 
 ## 📚 Projects
 - **[RENYU AI](https://renyu.ai)**
-  - Description: Renyu AI is an AI platform developed since 2022, utilizing Stable Diffusion and Chat GPT AI. Participated in the [K-Digital Platform](https://blog.goorm.io/renyuai/) along with GoormIDE.
-  - Tech Stack: PHP 8.3, Vue.js, Python, MySQL
+  - **Description**: Renyu AI is an AI platform developed since 2022, utilizing Stable Diffusion and Chat GPT AI. Participated in the [K-Digital Platform](https://blog.goorm.io/renyuai/) along with GoormIDE.
+  - **Tech Stack**: PHP 8.3, Vue.js, Python, MySQL
 - **WinSub Domain**
-  - Description: A domain registrar entity developed through a contract with domain registrars.
-  - Tech Stack: PHP 8.3, Vue.js, MySQL, Java
+  - **Description**: A domain registrar entity developed through a contract with domain registrars.
+  - **Tech Stack**: PHP 8.3, Vue.js, MySQL, Java
 - **[Hangang Life](https://hangang.life)**
-  - Description: A project displaying real-time water temperatures of the Han River, utilizing the Water Recycling Information System API provided by the Seoul Metropolitan Government.
-  - Tech Stack: PHP 8.3, JS, MySQL
+  - **Description**: A project displaying real-time water temperatures of the Han River, utilizing the Water Recycling Information System API provided by the Seoul Metropolitan Government.
+  - **Tech Stack**: PHP 8.3, JS, MySQL
 - **[C01 Free Domain](https://c01.kr)**
-  - Description: A service offering free domains to users by integrating with the DNS Zone provided by Cloudflare through its API.
-  - Tech Stack: PHP 7, MySQL
+  - **Description**: A service offering free domains to users by integrating with the DNS Zone provided by Cloudflare through its API.
+  - **Tech Stack**: PHP 7, MySQL
 - **[VKI Link Shortener](https://vki.kr) / [RENY.US Link Shortener](https://reny.us)**
     - **Description**: A link shortening service developed using a proprietary PHP router framework. Users can manage the links they create without logging in and can also view the number of times a link has been used.
     - **Tech Stack**: PHP 8.3, NGINX, IIS, MySQL
