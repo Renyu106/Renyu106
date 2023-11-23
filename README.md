@@ -21,9 +21,12 @@ I love turning my imaginations into reality by creating and operationalizing the
 - **[Hangang Life](https://hangang.life)**
   - **Description**: A project displaying real-time water temperatures of the Han River, utilizing the Water Recycling Information System API provided by the Seoul Metropolitan Government.
   - **Tech Stack**: PHP 8.3, NGINX, MySQL
-- **[C01 Free Domain](https://c01.kr)**
+- **[C01 Free Domain (Temporarily down)](https://c01.kr)**
   - **Description**: A service offering free domains to users by integrating with the DNS Zone provided by Cloudflare through its API.
   - **Tech Stack**: PHP 7, IIS, MySQL
+- **[PHP Encoder](https://encoder.winsub.kr)**
+    - **Description**: Obfuscates PHP source code using various obfuscation options, including IPLock, DateLock, DomainLock, etc.  It also detects unauthorized code modifications and prevents code execution.
+    - **Tech Stack**: PHP 8.3, NGINX
 - **[VKI Link Shortener](https://vki.kr) / [RENY.US Link Shortener](https://reny.us)**
     - **Description**: A link shortening service developed using a proprietary PHP router framework. Users can manage the links they create without logging in and can also view the number of times a link has been used.
     - **Tech Stack**: PHP 8.3, NGINX, IIS, MySQL
