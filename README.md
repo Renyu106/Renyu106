@@ -12,32 +12,16 @@ I love turning my imaginations into reality by creating and operationalizing the
   - Key Responsibilities: Backend/frontend system design and development, planning and management of new services.
 
 ## 📚 Projects
-- **[RENYU AI](https://renyu.ai)**
-  - **Description**: Renyu AI is an AI platform developed since 2022, utilizing Stable Diffusion and Chat GPT AI. Participated in the [K-Digital Platform](https://blog.goorm.io/renyuai/) along with GoormIDE.
-  - **Tech Stack**: PHP 8.3, Vue.js, Python, NGINX, MySQL
-- **WinSub Domain**
-  - **Description**: A domain registrar entity developed through a contract with domain registrars.
-  - **Tech Stack**: PHP 8.3, Vue.js, Java, NGINX, MySQL, Java
-- **[Hangang Life](https://hangang.life)**
-  - **Description**: A project displaying real-time water temperatures of the Han River, utilizing the Water Recycling Information System API provided by the Seoul Metropolitan Government.
-  - **Tech Stack**: PHP 8.3, NGINX, MySQL
-- **[C01 Free Domain (Temporarily down)](https://c01.kr)**
-  - **Description**: A service offering free domains to users by integrating with the DNS Zone provided by Cloudflare through its API.
-  - **Tech Stack**: PHP 7, IIS, MySQL
-- **[PHP Encoder](https://encoder.winsub.kr)**
-    - **Description**: Obfuscates PHP source code using various obfuscation options, including IPLock, DateLock, DomainLock, etc.  It also detects unauthorized code modifications and prevents code execution.
-    - **Tech Stack**: PHP 8.3, NGINX
-- **[VKI Link Shortener](https://vki.kr) / [RENY.US Link Shortener](https://reny.us)**
-    - **Description**: A link shortening service developed using a proprietary PHP router framework. Users can manage the links they create without logging in and can also view the number of times a link has been used.
-    - **Tech Stack**: PHP 8.3, NGINX, IIS, MySQL
-- **[TempMail](https://temp-mail.winsub.kr)**
-    - **Description**: This service offers temporary and disposable email addresses without requiring user login. Additionally, it allows users to set their own email addresses, making it suitable for account sharing or anonymous online activities.
-    - **Tech Stack**: PHP 8.3, NGINX, MySQL
-- **[Synthesizer V SVD Archive](https://synthv.winsub.kr)**
-    - **Description**: The Synthesizer V SVD Archive is a project that archives the Voice Database of the Synthesizer V by version.
-    - **Tech Stack**: PHP 8.3, NGINX, MySQL
-
-
+| Project Name                    | Description                                                                                                                                     | Tech Stack                    |
+|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
+| [RENYU AI](https://renyu.ai)    | An AI platform developed since 2022, utilizing Stable Diffusion and Chat GPT AI. Participated in the [K-Digital Platform](https://blog.goorm.io/renyuai/). | PHP 8.3, Vue.js, Python, NGINX, MySQL |
+| WinSub Domain                   | A domain registrar entity developed through a contract with domain registrars.                                                                   | PHP 8.3, Vue.js, Java, NGINX, MySQL, Java |
+| [Hangang Life](https://hangang.life) | A project displaying real-time water temperatures of the Han River, utilizing the Water Recycling Information System API provided by the Seoul Metropolitan Government. | PHP 8.3, NGINX, MySQL        |
+| [C01 Free Domain (Temporarily down)](https://c01.kr) | A service offering free domains to users by integrating with the DNS Zone provided by Cloudflare through its API.                                | PHP 7, IIS, MySQL            |
+| [PHP Encoder](https://encoder.winsub.kr) | Obfuscates PHP source code using various obfuscation options, including IPLock, DateLock, DomainLock, etc. Detects unauthorized code modifications and prevents code execution. | PHP 8.3, NGINX               |
+| [VKI Link Shortener](https://vki.kr) / [RENY.US Link Shortener](https://reny.us) | A link shortening service developed using a proprietary PHP router framework. Users can manage links they create without logging in and view the number of times a link has been used. | PHP 8.3, NGINX, IIS, MySQL   |
+| [TempMail](https://temp-mail.winsub.kr) | Offers temporary and disposable email addresses without requiring user login. Allows users to set their own email addresses, suitable for account sharing or anonymous online activities. | PHP 8.3, NGINX, MySQL        |
+| [Synthesizer V SVD Archive](https://synthv.winsub.kr) | Archives the Voice Database of the Synthesizer V by version.                                                                                      | PHP 8.3, NGINX, MySQL        |
 
 ## 📫 How to reach me
 - Email: renyu@winsub.kr
