@@ -1,4 +1,4 @@
-![Wallpaper](https://raw.githubusercontent.com/Renyu106/Renyu106/main/wallpaper_night.png)
+![Wallpaper](https://assets.winsub.kr/GITHUB/WALLPAPER)
 
 ## 👋 Hi
 I love turning my imaginations into reality by creating and operationalizing them, rather than just leaving them as mere thoughts.
