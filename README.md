@@ -10,6 +10,8 @@ I love turning my imaginations into reality by creating and operationalizing the
 - **Full Stack Developer** - [RENYU AI](https://renyu.ai)
   - August 2022 - Present
   - Key Responsibilities: Backend/frontend system design and development, planning and management of new services.
+- **Full Stack Developer** - [PROJECT ELIV](https://eliv.kr)
+  - January 2023 - Present
 
 ## 📚 Projects
 | Project Name                    | Description                                                                                                                                     | Tech Stack                    |
