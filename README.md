@@ -11,7 +11,7 @@ I love turning my imaginations into reality by creating and operationalizing the
   - August 2022 - Present
   - Key Responsibilities: Backend/frontend system design and development, planning and management of new services.
 - **Full Stack Developer** - [PROJECT ELIV](https://eliv.kr)
-  - January 2023 - Present
+  - January 2024 - Present
 
 ## 📚 Projects
 | Project Name                    | Description                                                                                                                                     | Tech Stack                    |
