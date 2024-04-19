@@ -25,7 +25,9 @@ I love turning my imaginations into reality by creating and operationalizing the
 | [TempMail](https://temp-mail.winsub.kr) | Offers temporary and disposable email addresses without requiring user login. Allows users to set their own email addresses, suitable for account sharing or anonymous online activities. | PHP 8.3, NGINX, MySQL        |
 
 ## 📫 How to reach me
-- Email: renyu@winsub.kr
+- Email: renyu@eliv.kr (ELIV)
+- Email: renyu@renyu.ai (RENYU AI)
+- Email: renyu@winsub.kr (WinSub)
 
 ## 💻 IDE
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
