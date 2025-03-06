@@ -24,11 +24,6 @@ I love turning my imaginations into reality by creating and operationalizing the
 | [VKI Link Shortener](https://vki.kr) / [RENY.US Link Shortener](https://reny.us) | A link shortening service developed using a proprietary PHP router framework. Users can manage links they create without logging in and view the number of times a link has been used. | PHP 8.3, NGINX, IIS, MySQL   |
 | [TempMail](https://temp-mail.winsub.kr) | Offers temporary and disposable email addresses without requiring user login. Allows users to set their own email addresses, suitable for account sharing or anonymous online activities. | PHP 8.3, NGINX, MySQL        |
 
-## 📫 How to reach me
-- Email: renyu@eliv.kr (ELIV)
-- Email: renyu@renyu.ai (RENYU AI)
-- Email: renyu@winsub.kr (WinSub)
-
 ## 💻 IDE
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Phpstorm](https://img.shields.io/badge/-PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
